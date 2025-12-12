@@ -1,2 +1,2 @@
 # material_decomposition
-Gauss Newton material decomposition approach.
+Direct material decomposition approach.
